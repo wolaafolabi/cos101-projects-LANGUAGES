@@ -162,3 +162,60 @@ exit_button=Button(window, text="exit",command=lambda: exit())
 word_entry =Entry(window, textvariable=word, font=('ariel',19))
 window.mainloop()
 
+
+from struct import pack_into
+
+Hausa_dictionary={"salamu":'hello',
+                 "Na gode":'Thank you',
+                    "Ina Kwana":'Goodnight',
+                    "Sai":'Goodbye',
+                    "Gida":'House',
+                    "Rana":'Sun',
+                    "Mota":'car',
+                    "Uwa":'Mother',
+                    "Kanu":'hunger',
+                    "Baba":'father',
+                    "Yarinya":'Girl',
+                    "Yaro":'boy',
+                    "Ruwa":'water',
+                    "malam":'teacher',
+                    "sabu":'patience',
+                    "kare":'old',
+                    "doki":'horse',
+                    "ina yin kwa":'Good morning',
+                    "koshi":'thirst',
+                    "Alhamdu":'Praise be to God'}
+from tkinter import Tk,Entry,Button,Label,StringVar
+
+window=Tk()
+window.geometry("600x250")
+window.title("Hausa_dictionary")
+
+word: StringVar = StringVar()
+word_entry = Entry(window, textvariable=word, font=('ariel',19))
+word_entry.pack()
+
+
+result = StringVar()
+result_label =Label(window , textvariable=result)
+result_label.pack()
+
+
+def search (word):
+    if word in Hausa_dictionary:
+            result.set(Hausa_dictionary[word])
+            print(Hausa_dictionary[word])
+    else:
+            result.set("not found")
+
+search_btn = Button(window, text="search", command=lambda: search(word.get()))
+search_btn.pack()
+
+
+exit_button=Button(window, text="exit",command=lambda: exit())
+
+word_entry =Entry(window, textvariable=word, font=('ariel',19))
+window.mainloop()
+
+
+
