@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a974dc1-3010-435c-af88-e731d68e2531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yoruba.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHORTCUTS/FIFA 14.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHORTCUTS/GitHub.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHORTCUTS/Google Chrome.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHORTCUTS/Google Classroom.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHORTCUTS/Microsoft Edge.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHORTCUTS/PyCharm Community Edition 2024.3.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHORTCUTS/Visual Studio Code.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHORTCUTS/YouTube.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SHORTCUTS/etisalat easynet.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tiv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ajimaohejipraise"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/wolaafolabi/cos101-projects-LANGUAGES",
+    "accountId": "2b5a48e3-a618-4dd7-99be-b302b3ad30fa"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
